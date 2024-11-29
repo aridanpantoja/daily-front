@@ -1,5 +1,8 @@
 name: Update README
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 0 * * *' # Roda diariamente à meia-noite UTC
@@ -29,8 +32,6 @@ jobs:
       run: |
         git config --global user.name "Aridan Pantoja"
         git config --global user.email "aridanpantoja@gmail.com"
-        git config --global credential.helper 'store'
-        echo "https://${{ secrets.GITHUB_TOKEN }}@github.com" > ~/.git-credentials
 
     # Step 5: Commit e Push das alterações
     - name: Commit and Push Changes
@@ -38,3 +39,5 @@ jobs:
         git add README.md
         git commit -m "Another question: $(date -u)"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
