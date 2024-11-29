@@ -404,7 +404,7 @@ chosen_question = random.choice(questions)
 
 readme_file = "README.md"
 header = "# Daily Front 🎨\n\n"
-question = f"### Question: {chosen_question["pergunta"]}\n ### Category: {chosen_question["categoria"]}"
+question = f"""### Question: {chosen_question["pergunta"]}\n ### Category: {chosen_question["categoria"]}"""
 content = f"{header} {question}"
 
 with open(readme_file, "w", encoding="utf-8") as file:
