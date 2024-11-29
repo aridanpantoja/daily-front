@@ -1,5 +1,3 @@
-import random
-
 questions = [
     {
         "pergunta": "What does a doctype do?",
@@ -32,12 +30,12 @@ questions = [
         "subperguntas": []
     },
     {
-        "pergunta": "Describe the difference between <script>, <script async> and <script defer>.",
+        "pergunta": "Describe the difference between `script`, `script async` and `script defer`.",
         "categoria": "HTML",
         "subperguntas": []
     },
     {
-        "pergunta": "Why is it generally a good idea to position CSS <link>s between <head></head> and JS <script>s just before </body>? Do you know any exceptions?",
+        "pergunta": "Why is it generally a good idea to position CSS `link` between `head` and JS `script` just before `body`? Do you know any exceptions?",
         "categoria": "HTML",
         "subperguntas": []
     },
@@ -250,149 +248,149 @@ questions = [
     },
     {
         "pergunta": "What did you learn yesterday/this week?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "What excites or interests you about coding?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "What is a recent technical challenge you experienced and how did you solve it?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "When building a new web site or maintaining one, can you explain some techniques you have used to increase performance?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "Can you describe some SEO best practices or techniques you have used lately?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "Can you explain any common techniques or recent issues solved in regards to front-end security?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "What actions have you personally taken on recent projects to increase maintainability of your code?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "Talk about your preferred development environment.",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "Which version control systems are you familiar with?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "Can you describe your workflow when you create a web page?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "If you have 5 different stylesheets, how would you best integrate them into the site?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "Can you describe the difference between progressive enhancement and graceful degradation?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "How would you optimize a website's assets/resources?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "How many resources will a browser download from a given domain at a time?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": [
             "What are the exceptions?"
         ]
     },
     {
         "pergunta": "Name 3 ways to decrease page load (perceived or actual load time).",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "If you jumped on a project and they used tabs and you used spaces, what would you do?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "Describe how you would create a simple slideshow page.",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "If you could master one technology this year, what would it be?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "Explain the importance of standards and standards bodies.",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "What is Flash of Unstyled Content? How do you avoid FOUC?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "Explain what ARIA and screenreaders are, and how to make a website accessible.",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "Explain some of the pros and cons for CSS animations versus JavaScript animations.",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "What does CORS stand for and what issue does it address?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "How did you handle a disagreement with your boss or your collaborator?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "What resources do you use to learn about the latest in front end development and design?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "What skills are needed to be a good front-end developer?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "What role do you see yourself in?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "Can you explain what happens when you enter a URL into the browser?",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": []
     },
     {
         "pergunta": "Describe the difference between SSR and CSR. Discuss the pros and cons.",
-        "categoria": "general questions",
+        "categoria": "general",
         "subperguntas": [
             "Are you familiar with static rendering?",
             "Rehydration?"
@@ -400,12 +398,4 @@ questions = [
     }
 ]
 
-chosen_question = random.choice(questions)
-
-readme_file = "README.md"
-header = "# Daily Front 🎨\n\n"
-question = f"""### Question: {chosen_question["pergunta"]}\n ### Category: {chosen_question["categoria"]}"""
-content = f"{header} {question}"
-
-with open(readme_file, "w", encoding="utf-8") as file:
-    file.write(content)
+ #random.choice(questions)

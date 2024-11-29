@@ -25,7 +25,7 @@ jobs:
 
     # Step 3: Executar o script Python
     - name: Run Python Script
-      run: python questions.py
+      run: python generate.py
 
     # Step 4: Configurar Git para commit automático
     - name: Setup Git
