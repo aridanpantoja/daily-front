@@ -1,5 +1,8 @@
 name: Update README
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 0 * * *' # Roda diariamente à meia-noite UTC
@@ -36,6 +39,3 @@ jobs:
         git add README.md
         git commit -m "another question"
         git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
