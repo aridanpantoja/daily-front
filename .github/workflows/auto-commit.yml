@@ -35,5 +35,7 @@ jobs:
       run: |
         git add README.md
         git commit -m "another question"
-        git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
