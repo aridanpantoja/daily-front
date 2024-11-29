@@ -1,8 +1,5 @@
 name: Update README
 
-permissions:
-  contents: write
-
 on:
   schedule:
     - cron: '0 0 * * *' # Roda diariamente à meia-noite UTC
@@ -37,7 +34,6 @@ jobs:
     - name: Commit and Push Changes
       run: |
         git add README.md
-        git commit -m "Another question: $(date -u)"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        git commit -m "another question"
+        git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+
