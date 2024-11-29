@@ -1,7 +1,7 @@
 import random
 from questions import questions
 
-chosen_question =  questions[6]
+chosen_question = random.choice(questions)
 
 content = f"""
 <h1>Daily Front 🎨</h1>
