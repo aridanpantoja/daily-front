@@ -28,7 +28,7 @@ jobs:
     - name: Setup Git
       run: |
         git config --global user.name "Aridan Pantoja"
-        git config --global user.email aridanpantoja@gmail.com"
+        git config --global user.email "aridanpantoja@gmail.com"
 
     # Step 5: Commit e Push das alterações
     - name: Commit and Push Changes
