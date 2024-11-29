@@ -1,0 +1,38 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Roda diariamente à meia-noite UTC
+  workflow_dispatch: # Permite disparar o workflow manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Checkout do repositório
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    # Step 2: Configurar Python
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9' # Versão do Python que será utilizada
+
+    # Step 3: Executar o script Python
+    - name: Run Python Script
+      run: python questions.py
+
+    # Step 4: Configurar Git para commit automático
+    - name: Setup Git
+      run: |
+        git config --global user.name "Aridan Pantoja"
+        git config --global user.email aridanpantoja@gmail.com"
+
+    # Step 5: Commit e Push das alterações
+    - name: Commit and Push Changes
+      run: |
+        git add README.md
+        git commit -m "Another question: $(date -u)"
+        git push
