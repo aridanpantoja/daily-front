@@ -6,10 +6,10 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>How would you approach fixing browser-specific styling issues? </p>
+<p>How do you serve your pages for feature-constrained browsers? What techniques/processes do you use?</p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
-![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
+![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-1-green)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
 
