@@ -6,7 +6,7 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Why you would use a srcset attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute. </p>
+<p>Have you used different HTML templating languages before? </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-HTML-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
