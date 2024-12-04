@@ -6,7 +6,7 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Have you used different HTML templating languages before? </p>
+<p>What are empty elements in HTML? </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-HTML-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
