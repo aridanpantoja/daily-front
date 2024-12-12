@@ -6,7 +6,7 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>What are the different ways to visually hide content (and make it available only for screen readers)? </p>
+<p>Can you give an example of a pseudo class? Can you provide an example use case for a pseudo class? </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
