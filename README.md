@@ -6,10 +6,10 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>How do you serve your pages for feature-constrained browsers? What techniques/processes do you use?</p>
+<p>Describe z-index and how stacking context is formed. </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
-![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-1-green)
+![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
 
