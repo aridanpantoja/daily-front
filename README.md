@@ -6,9 +6,9 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Talk about your preferred development environment. </p>
+<p>What are the advantages/disadvantages of using CSS preprocessors? </p>
 
-![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
+![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
