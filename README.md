@@ -6,7 +6,7 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>What are the advantages/disadvantages of using CSS preprocessors? </p>
+<p>Can you explain the difference between coding a web site to be responsive versus using a mobile-first strategy? </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
