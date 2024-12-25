@@ -6,7 +6,7 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>What is the difference between a block level element and an inline element? Can you provide examples of each type of element? </p>
+<p>Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models. </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
