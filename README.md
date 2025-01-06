@@ -6,9 +6,9 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>What are data- attributes good for? </p>
+<p>What actions have you personally taken on recent projects to increase maintainability of your code? </p>
 
-![CATEGORY](https://img.shields.io/badge/Category-HTML-blue) 
+![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
