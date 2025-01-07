@@ -6,7 +6,7 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>What actions have you personally taken on recent projects to increase maintainability of your code? </p>
+<p>What is a recent technical challenge you experienced and how did you solve it? </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
