@@ -6,9 +6,9 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Describe Floats and how they work. </p>
+<p>If you jumped on a project and they used tabs and you used spaces, what would you do? </p>
 
-![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
+![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
