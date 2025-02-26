@@ -6,9 +6,9 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>How is clearfix css property useful? </p>
+<p>How did you handle a disagreement with your boss or your collaborator? </p>
 
-![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
+![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
