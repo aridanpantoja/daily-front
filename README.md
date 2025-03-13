@@ -6,7 +6,7 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>What existing CSS frameworks have you used locally, or in production? How would you change/improve them? </p>
+<p>Have you used or implemented media queries or mobile specific layouts/CSS? </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
