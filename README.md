@@ -6,9 +6,9 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>What does a doctype do? </p>
+<p>What existing CSS frameworks have you used locally, or in production? How would you change/improve them? </p>
 
-![CATEGORY](https://img.shields.io/badge/Category-HTML-blue) 
+![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
