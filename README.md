@@ -6,10 +6,10 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>How do you serve your pages for feature-constrained browsers? What techniques/processes do you use?</p>
+<p>Why is it generally a good idea to position CSS `link` between `head` and JS `script` just before `body`? Do you know any exceptions? </p>
 
-![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
-![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-1-green)
+![CATEGORY](https://img.shields.io/badge/Category-HTML-blue) 
+![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
 
