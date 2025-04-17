@@ -6,9 +6,9 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>When building a new web site or maintaining one, can you explain some techniques you have used to increase performance? </p>
+<p>What is the difference between inline and inline-block? </p>
 
-![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
+![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
