@@ -6,9 +6,9 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Is there any reason you'd want to use translate() instead of absolute positioning, or vice-versa? And why? </p>
+<p>What is progressive rendering? </p>
 
-![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
+![CATEGORY](https://img.shields.io/badge/Category-HTML-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
