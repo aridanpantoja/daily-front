@@ -6,9 +6,9 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Can you give an example of an @media property other than screen? </p>
+<p>Name 3 ways to decrease page load (perceived or actual load time). </p>
 
-![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
+![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
