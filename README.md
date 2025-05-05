@@ -6,7 +6,7 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>What is the difference between 'resetting' and 'normalizing' CSS? Which would you choose, and why? </p>
+<p>Describe BFC (Block Formatting Context) and how it works. </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
