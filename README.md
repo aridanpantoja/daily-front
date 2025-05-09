@@ -6,9 +6,9 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Are you familiar with styling SVG? </p>
+<p>What resources do you use to learn about the latest in front end development and design? </p>
 
-![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
+![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
