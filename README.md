@@ -6,9 +6,9 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Which version control systems are you familiar with? </p>
+<p>How do you serve a page with content in multiple languages? </p>
 
-![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
+![CATEGORY](https://img.shields.io/badge/Category-HTML-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
