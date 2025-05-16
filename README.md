@@ -6,7 +6,7 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Describe how you would create a simple slideshow page. </p>
+<p>What excites or interests you about coding? </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
