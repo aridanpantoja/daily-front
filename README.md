@@ -6,10 +6,10 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Describe the difference between SSR and CSR. Discuss the pros and cons. Are you familiar with static rendering? Rehydration?</p>
+<p>Are you familiar with styling SVG? </p>
 
-![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
-![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-2-green)
+![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
+![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
 
