@@ -6,9 +6,9 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Explain the importance of standards and standards bodies. </p>
+<p>What is the difference between fixed, fluid and responsive layouts? </p>
 
-![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
+![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
