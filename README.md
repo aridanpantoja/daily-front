@@ -6,10 +6,10 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Can you explain any common techniques or recent issues solved in regards to front-end security? </p>
+<p>How many resources will a browser download from a given domain at a time? What are the exceptions?</p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
-![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
+![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-1-green)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
 
