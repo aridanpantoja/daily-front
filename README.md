@@ -6,7 +6,7 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>What is the difference between canvas and svg? </p>
+<p>Describe the difference between a cookie, sessionStorage and localStorage. </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-HTML-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
