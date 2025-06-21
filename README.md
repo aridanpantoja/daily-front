@@ -6,9 +6,9 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Describe the difference between a cookie, sessionStorage and localStorage. </p>
+<p>Can you give an example of an @media property other than screen? </p>
 
-![CATEGORY](https://img.shields.io/badge/Category-HTML-blue) 
+![CATEGORY](https://img.shields.io/badge/Category-CSS-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
 
 <h2 id="tech-stack">Tech Stack 💻</h2>
