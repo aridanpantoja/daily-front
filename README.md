@@ -6,7 +6,7 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Can you describe your workflow when you create a web page? </p>
+<p>Talk about your preferred development environment. </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
