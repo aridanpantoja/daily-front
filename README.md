@@ -6,7 +6,7 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Can you explain any common techniques or recent issues solved in regards to front-end security? </p>
+<p>If you have 5 different stylesheets, how would you best integrate them into the site? </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
