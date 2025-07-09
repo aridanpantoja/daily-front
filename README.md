@@ -6,7 +6,7 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Which version control systems are you familiar with? </p>
+<p>What role do you see yourself in? </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-general-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
