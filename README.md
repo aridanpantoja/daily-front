@@ -6,7 +6,7 @@
 </p>
 
 <h2 id="daily-question">Daily Question 💬</h2>
-<p>Describe the difference between `script`, `script async` and `script defer`. </p>
+<p>What kind of things must you be wary of when designing or developing for multilingual sites? </p>
 
 ![CATEGORY](https://img.shields.io/badge/Category-HTML-blue) 
 ![SUBQUESTIONS](https://img.shields.io/badge/Subquestions-0-red)
